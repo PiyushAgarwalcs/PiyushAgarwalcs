@@ -23,13 +23,9 @@
 ## 🚀 About Me
 
 - 🎓 Computer Science undergraduate at **SRM Institute of Science and Technology**
-- 📊 Maintaining a **9.65/10.0 CGPA**
 - 🧠 Solved **500+ LeetCode problems** using C++
-- 🤖 Building AI applications with **LangGraph, LLMs, RAG, and MCP**
-- 👁️ Exploring machine learning, computer vision, and AI-powered interfaces
-- ⚙️ Interested in backend engineering, intelligent automation, and real-world AI applications
-- 🌱 Continuously learning, experimenting, and building projects
-
+- 🤖 Building Backend and AI applications with **Python, FastAPI, LangGraph, LLMs, RAG, and MCP**
+- 
 ---
 
 ## 🛠️ Tech Stack

@@ -16,14 +16,14 @@ Computer Science undergraduate at **SRM Institute of Science and Technology**. I
 
 ## 🚀 Featured Projects
 
-| Project | What it does | Stack | Proof |
-|---|---|---|---|
-| **[ResearchNexus](https://github.com/PiyushAgarwalcs/research-nexus)** | Evidence-grounded scientific search: hybrid retrieval, fine-tuned reranker, stance classification, abstains when evidence is thin | PyTorch, ChromaDB, FastAPI, Streamlit | +0.0382 nDCG@10 over baseline (p = 0.0006), 61 tests, CI |
-| **[MergeGuard](https://github.com/PiyushAgarwalcs/MergeGuard)** | Multi-agent PR reviewer with a deterministic, fail-closed merge gate | LangGraph, Python | 294 tests, 0% unsafe-pass rate on its eval suite |
-| **[MergeGuard: Policy Enforcement](https://github.com/PiyushAgarwalcs/MergeGuard-Automated-PR-Security-Policy-Enforcement)** | Five-agent PR review and risk-based deployment gate, with audit reports | FastAPI, LangGraph, Docker, GitHub Actions | CI, PR validation and deploy workflows |
-| **[High-Concurrency Job Ingestion ETL](https://github.com/PiyushAgarwalcs/High-Concurrency-Job-Ingestion-ETL-Pipeline)** | Pulls fresher AI/ML and backend roles from 1,050+ career portals and sends alerts within minutes | asyncio, aiohttp, Pydantic v2, SQLite | 18 ATS handlers, circuit breaker, 30 tests |
-| **[Autonomous AIOps Incident Engine](https://github.com/PiyushAgarwalcs/Autonomous-AlOps-Incident-Remediation-Log-Parser-Engine)** | Matches error logs to SRE runbooks; a circuit breaker blocks unsafe AI-suggested commands | ChromaDB, Ollama, Groq, FastAPI | [Live demo](https://autonomous-aiops-incident-remediation-log-parser-engine.streamlit.app), 24 tests |
-| **[AI Infrastructure Governance Platform](https://github.com/PiyushAgarwalcs/AI-Powered-Infrastructure-Provisioning-Governance-Platform)** | Turns plain-English infra requests into reviewed Terraform/Kubernetes config with human approval | FastAPI, Pydantic, Terraform, Kind | Policy engine with approval records |
+| Project | What it does | Stack |
+|---|---|---|
+| **[ResearchNexus](https://github.com/PiyushAgarwalcs/research-nexus)** | Evidence-grounded scientific search: hybrid retrieval, fine-tuned reranker, stance classification, abstains when evidence is thin | PyTorch, ChromaDB, FastAPI, Streamlit |
+| **[MergeGuard](https://github.com/PiyushAgarwalcs/MergeGuard)** | Multi-agent PR reviewer with a deterministic, fail-closed merge gate | LangGraph, Python |
+| **[MergeGuard: Policy Enforcement](https://github.com/PiyushAgarwalcs/MergeGuard-Automated-PR-Security-Policy-Enforcement)** | Five-agent PR review and risk-based deployment gate, with audit reports | FastAPI, LangGraph, Docker, GitHub Actions |
+| **[High-Concurrency Job Ingestion ETL](https://github.com/PiyushAgarwalcs/High-Concurrency-Job-Ingestion-ETL-Pipeline)** | Pulls fresher AI/ML and backend roles from 1,050+ career portals and sends alerts within minutes | asyncio, aiohttp, Pydantic v2, SQLite |
+| **[Autonomous AIOps Incident Engine](https://github.com/PiyushAgarwalcs/Autonomous-AlOps-Incident-Remediation-Log-Parser-Engine)** | Matches error logs to SRE runbooks; a circuit breaker blocks unsafe AI-suggested commands | ChromaDB, Ollama, Groq, FastAPI |
+| **[AI Infrastructure Governance Platform](https://github.com/PiyushAgarwalcs/AI-Powered-Infrastructure-Provisioning-Governance-Platform)** | Turns plain-English infra requests into reviewed Terraform/Kubernetes config with human approval | FastAPI, Pydantic, Terraform, Kind |
 
 ---
 
